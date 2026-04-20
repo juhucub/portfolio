@@ -1,0 +1,24 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" rx="48" fill="#090B10"/>
+  <rect x="80" y="80" width="1440" height="940" rx="40" fill="#101522" stroke="#1A2235"/>
+  <rect x="136" y="136" width="1328" height="828" rx="34" fill="#0D111A"/>
+  <g filter="url(#blur0)">
+    <path d="M382 694C296 598 300 458 402 390C500 322 632 354 712 438C794 522 812 654 746 742C670 842 488 810 382 694Z" fill="#6A8DFF" fill-opacity="0.44"/>
+    <path d="M1064 746C960 824 822 798 748 712C674 626 666 494 752 404C838 314 982 298 1094 362C1196 420 1260 560 1212 672C1184 736 1132 786 1064 746Z" fill="#6EE7C8" fill-opacity="0.34"/>
+    <path d="M626 548C556 628 434 650 360 590C294 536 294 430 372 382C450 334 586 340 642 414C680 466 670 500 626 548Z" fill="#E7A85F" fill-opacity="0.32"/>
+  </g>
+  <path d="M194 762C334 642 548 640 690 762C844 894 1060 906 1220 782C1300 720 1374 626 1406 518" stroke="#6EE7C8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M194 470C312 384 444 340 594 354C768 370 884 472 1046 478C1162 482 1266 444 1362 352" stroke="#6A8DFF" stroke-width="10" stroke-linecap="round" stroke-opacity="0.9"/>
+  <circle cx="460" cy="434" r="14" fill="#6EE7C8"/>
+  <circle cx="946" cy="478" r="12" fill="#6A8DFF"/>
+  <circle cx="1170" cy="442" r="12" fill="#E7A85F"/>
+  <rect x="122" y="118" width="30" height="30" rx="7" transform="rotate(45 122 118)" fill="#6EE7C8"/>
+  <rect x="1440" y="920" width="42" height="42" rx="8" transform="rotate(45 1440 920)" fill="#6A8DFF"/>
+  <defs>
+    <filter id="blur0" x="224" y="242" width="1096" height="652" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="42" result="effect1_foregroundBlur"/>
+    </filter>
+  </defs>
+</svg>

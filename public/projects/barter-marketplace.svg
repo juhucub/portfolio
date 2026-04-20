@@ -1,0 +1,28 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" rx="48" fill="#0A0C12"/>
+  <rect x="82" y="78" width="1436" height="944" rx="40" fill="#10141F" stroke="#1D2538"/>
+  <rect x="136" y="132" width="1328" height="104" rx="30" fill="#11182A"/>
+  <rect x="188" y="170" width="310" height="28" rx="14" fill="#29334C"/>
+  <rect x="1220" y="156" width="186" height="52" rx="26" fill="#6EE7C8" fill-opacity="0.12" stroke="#6EE7C8" stroke-opacity="0.24"/>
+  <rect x="136" y="284" width="402" height="310" rx="32" fill="#0D1220" stroke="#1C2640"/>
+  <rect x="578" y="284" width="444" height="310" rx="32" fill="#0D1220" stroke="#1C2640"/>
+  <rect x="1062" y="284" width="402" height="636" rx="32" fill="#0D1220" stroke="#1C2640"/>
+  <rect x="136" y="636" width="886" height="284" rx="32" fill="#0D1220" stroke="#1C2640"/>
+  <rect x="190" y="338" width="140" height="140" rx="28" fill="#172038"/>
+  <rect x="360" y="342" width="120" height="18" rx="9" fill="#6EE7C8" fill-opacity="0.9"/>
+  <rect x="360" y="382" width="126" height="16" rx="8" fill="#27314A"/>
+  <rect x="360" y="416" width="92" height="16" rx="8" fill="#27314A"/>
+  <rect x="632" y="338" width="324" height="18" rx="9" fill="#6A8DFF" fill-opacity="0.78"/>
+  <rect x="632" y="382" width="278" height="16" rx="8" fill="#27314A"/>
+  <rect x="632" y="416" width="228" height="16" rx="8" fill="#27314A"/>
+  <rect x="632" y="472" width="170" height="52" rx="26" fill="#E7A85F" fill-opacity="0.18" stroke="#E7A85F" stroke-opacity="0.2"/>
+  <rect x="1118" y="340" width="290" height="182" rx="28" fill="#11182A"/>
+  <rect x="1118" y="564" width="290" height="18" rx="9" fill="#6EE7C8" fill-opacity="0.7"/>
+  <rect x="1118" y="606" width="232" height="16" rx="8" fill="#27314A"/>
+  <rect x="1118" y="774" width="290" height="92" rx="24" fill="#11182A"/>
+  <rect x="188" y="694" width="782" height="172" rx="26" fill="#11182A"/>
+  <path d="M930 760C880 728 830 712 780 712C694 712 624 760 580 836" stroke="#6EE7C8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M580 836C614 798 662 778 724 778C786 778 844 806 900 862" stroke="#6A8DFF" stroke-width="12" stroke-linecap="round"/>
+  <rect x="148" y="120" width="24" height="24" rx="6" transform="rotate(45 148 120)" fill="#6EE7C8" fill-opacity="0.9"/>
+  <rect x="1456" y="950" width="38" height="38" rx="8" transform="rotate(45 1456 950)" fill="#6A8DFF" fill-opacity="0.7"/>
+</svg>

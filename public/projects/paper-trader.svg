@@ -1,0 +1,27 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" rx="48" fill="#0B0D13"/>
+  <rect x="88" y="82" width="1424" height="936" rx="36" fill="#101420" stroke="#20283D"/>
+  <rect x="138" y="132" width="320" height="46" rx="23" fill="#121A2B"/>
+  <rect x="160" y="145" width="132" height="20" rx="10" fill="#6EE7C8" fill-opacity="0.9"/>
+  <rect x="138" y="220" width="640" height="316" rx="28" fill="#0D1220" stroke="#1C2640"/>
+  <path d="M180 454L264 392L322 420L414 314L508 346L596 248L694 290L740 254" stroke="#6EE7C8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="264" cy="392" r="13" fill="#6EE7C8"/>
+  <circle cx="414" cy="314" r="13" fill="#6EE7C8"/>
+  <circle cx="596" cy="248" r="13" fill="#6EE7C8"/>
+  <rect x="138" y="576" width="640" height="98" rx="24" fill="#0D1220" stroke="#1C2640"/>
+  <rect x="138" y="714" width="640" height="244" rx="28" fill="#0D1220" stroke="#1C2640"/>
+  <rect x="836" y="220" width="626" height="738" rx="28" fill="#0D1220" stroke="#1C2640"/>
+  <rect x="884" y="274" width="186" height="186" rx="28" fill="#11182A"/>
+  <rect x="1106" y="274" width="304" height="28" rx="14" fill="#29334C"/>
+  <rect x="1106" y="322" width="248" height="18" rx="9" fill="#1C2640"/>
+  <rect x="1106" y="366" width="198" height="18" rx="9" fill="#1C2640"/>
+  <rect x="884" y="514" width="526" height="126" rx="24" fill="#101726"/>
+  <rect x="884" y="678" width="526" height="126" rx="24" fill="#101726"/>
+  <rect x="884" y="842" width="526" height="70" rx="22" fill="#11182A"/>
+  <rect x="954" y="560" width="270" height="14" rx="7" fill="#6A8DFF" fill-opacity="0.7"/>
+  <rect x="954" y="604" width="192" height="14" rx="7" fill="#23304F"/>
+  <rect x="954" y="724" width="314" height="14" rx="7" fill="#6EE7C8" fill-opacity="0.55"/>
+  <rect x="954" y="768" width="230" height="14" rx="7" fill="#23304F"/>
+  <rect x="118" y="70" width="26" height="26" rx="6" transform="rotate(45 118 70)" fill="#6A8DFF" fill-opacity="0.8"/>
+  <rect x="1442" y="150" width="34" height="34" rx="8" transform="rotate(45 1442 150)" fill="#E7A85F" fill-opacity="0.9"/>
+</svg>
