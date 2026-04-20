@@ -1,14 +1,15 @@
 import type { Project } from "../types/project";
 
 export const projects: Project[] = [
-    {
+  {
     id: "barter-marketplace",
     title: "Barter Marketplace",
-    summary: "A community trading platform for listing, matching, and negotiating item exchanges without cash.",
+    summary:
+      "A full-stack marketplace for listing items, messaging users, and making trade offers without cash.",
     description:
-      "Built while working with LaunchPath Inc. and centers around trust, lightweight messaging, and frictionless browsing to make local swaps feel dependable, clean, and mobile friendly.",
-    techStack: ["React", "Vite", "Node.js", "TypeScript", "Supabase PostgreSQL", "AWS"],
-    tags: ["Marketplace", "Full Stack", "Product Design"],
+      "Built with LaunchPath Inc. as a community trading platform focused on real user flows like listing creation, image uploads, favorites, messaging, and trade management. I worked across the frontend, backend integrations, and deployment setup to make the app feel polished and production-ready.",
+    techStack: ["React", "Vite", "Node.js", "TypeScript", "Supabase", "AWS"],
+    tags: ["Full Stack", "Marketplace", "Production App"],
     image: "/projects/barter-marketplace.svg",
     githubUrl: "https://github.com",
     liveUrl: "https://staging.barterapp.ca",
@@ -17,11 +18,12 @@ export const projects: Project[] = [
   {
     id: "paper-trader",
     title: "Paper Trader Control Room",
-    summary: "A trading sandbox built to simulate execution, monitor strategies, and surface market context in real time.",
+    summary:
+      "A paper trading platform for testing strategies, tracking portfolio state, and reviewing execution decisions.",
     description:
-      "Designed as a full-stack environment for testing strategy ideas, paper trades, and portfolio behavior with a focus on observability, explainability, and fast iteration.",
+      "Built as a trading sandbox to experiment with strategy logic, portfolio monitoring, and automated decision pipelines without risking real capital. The project includes backend services, market-data integrations, and tooling to inspect why trades were approved, blocked, or skipped.",
     techStack: ["React", "TypeScript", "Python", "FastAPI", "PostgreSQL"],
-    tags: ["Quant Tools", "Data Visualization", "Monitoring"],
+    tags: ["Trading Systems", "Backend", "Tooling"],
     image: "/projects/paper-trader.svg",
     githubUrl: "https://github.com/juhucub/jub-paper-trader",
     liveUrl: "https://example.com",
@@ -30,11 +32,12 @@ export const projects: Project[] = [
   {
     id: "fluid-simulation",
     title: "Fluid Simulation Lab",
-    summary: "An interactive browser experiment exploring motion, particles, and responsive visual systems.",
+    summary:
+      "A real-time fluid simulation project focused on particle behavior, rendering, and interactive controls.",
     description:
-      "Created to merge technical precision with visual play, using performant rendering and parameter controls to turn a simulation into an experience.",
-    techStack: ["TypeScript", "WebGL", "Shaders", "Canvas", "CMake"],
-    tags: ["Creative Coding", "Performance", "Interaction"],
+      "Built as a performance-heavy graphics project to explore more realistic water motion, stronger rendering pipelines, and responsive interaction. I worked on simulation behavior, data layout, rendering flow, and overall structure to push the project closer to something both technical and visually interesting.",
+    techStack: ["C++", "OpenGL", "CMake", "ImGui", "Shaders"],
+    tags: ["Graphics", "Simulation", "Performance"],
     image: "/projects/fluid-simulation.svg",
     githubUrl: "https://github.com/juhucub/FluidSimulation",
     liveUrl: "https://example.com",
@@ -43,11 +46,12 @@ export const projects: Project[] = [
   {
     id: "media-automation",
     title: "Media Uploader Platform",
-    summary: "An automation-focused pipeline for ingesting assets, organizing uploads, and orchestrating downstream processing.",
+    summary:
+      "A media workflow tool for uploading assets, managing metadata, and automating publishing steps.",
     description:
-      "Built to streamline repetitive media workflows with queue-driven processing, clear operator feedback, and extensible integration points.",
-    techStack: ["React", "TypeScript", "Node.js", "AWS S3", "Automation"],
-    tags: ["Workflow Automation", "Infrastructure", "Developer Experience"],
+      "Built to reduce repetitive content workflow tasks by giving users a cleaner way to upload media, organize project data, and prepare content for downstream automation. The project combines a React frontend with backend services for handling files, metadata, and process orchestration.",
+    techStack: ["React", "TypeScript", "Python", "FastAPI", "SQLite"],
+    tags: ["Automation", "Full Stack", "Workflow Tools"],
     image: "/projects/media-automation.svg",
     githubUrl: "https://github.com/juhucub/omni-poster",
     liveUrl: "https://example.com",

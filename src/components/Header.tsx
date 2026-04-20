@@ -28,7 +28,7 @@ export function Header() {
             className="button-link button-link-secondary px-4 py-3 text-sm"
             href={siteConfig.heroSecondaryCta.href}
           >
-            Let&apos;s talk
+            Contact
           </a>
         </div>
       </div>
