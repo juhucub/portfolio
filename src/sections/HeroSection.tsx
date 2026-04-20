@@ -27,29 +27,29 @@ export function HeroSection() {
           animate={shouldReduceMotion ? undefined : { opacity: 1, y: 0 }}
         >
           <div className="relative z-10 max-w-3xl space-y-8">
-            <StatusPill>{siteConfig.status}</StatusPill>
+            <StatusPill>Open to opportunities</StatusPill>
 
             <div className="space-y-6">
               <p className="font-heading text-sm font-bold uppercase tracking-[0.35em] text-[var(--color-text-soft)]">
-                {siteConfig.name}
+                Jacob Gardner
               </p>
               <div className="relative">
                 <div className="headline-emphasis absolute -left-3 top-6 h-[70%] w-[82%] rounded-[2rem] blur-2xl" />
                 <h1 className="relative max-w-4xl text-5xl font-extrabold leading-[0.95] tracking-tight text-white sm:text-6xl lg:text-7xl">
-                  {siteConfig.headline}
+                  I build full-stack apps, systems, and interactive software.
                 </h1>
               </div>
               <p className="max-w-2xl text-lg leading-8 text-[var(--color-text-muted)] sm:text-xl">
-                {siteConfig.supportingText}
+                I like working on projects that combine strong engineering, clean user experience,
+                and real technical depth—from product builds to simulations, embedded work, and
+                systems-heavy tools.
               </p>
             </div>
 
             <div className="flex flex-col gap-3 sm:flex-row">
-              <ButtonLink href={siteConfig.heroPrimaryCta.href}>
-                {siteConfig.heroPrimaryCta.label}
-              </ButtonLink>
-              <ButtonLink href={siteConfig.heroSecondaryCta.href} variant="secondary">
-                {siteConfig.heroSecondaryCta.label}
+              <ButtonLink href="#projects">View Projects</ButtonLink>
+              <ButtonLink href="#contact" variant="secondary">
+                Contact Me
               </ButtonLink>
             </div>
 
@@ -88,16 +88,16 @@ export function HeroSection() {
                     Focus
                   </span>
                   <span className="rounded-full border border-[rgba(110,231,200,0.16)] bg-[rgba(110,231,200,0.06)] px-3 py-2 text-xs font-bold uppercase tracking-[0.18em] text-[var(--color-primary)]">
-                    2026
+                    Current
                   </span>
                 </div>
 
                 <div className="grid gap-4">
                   {[
-                    "Full-stack product engineering",
-                    "Technical systems and tooling",
-                    "Interactive motion and polished UX",
-                    "Scalable project architecture",
+                    "Full-stack apps",
+                    "Backend systems and tooling",
+                    "Interactive visuals",
+                    "Embedded and technical projects",
                   ].map((item) => (
                     <div
                       className="flex items-center gap-4 rounded-[1.4rem] border border-white/8 bg-white/3 px-4 py-4"

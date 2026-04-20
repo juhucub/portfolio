@@ -9,9 +9,9 @@ export function SkillsSection() {
     <section className="section-anchor section-shell" id="skills">
       <div className="site-shell space-y-12">
         <SectionHeader
-          description="A practical stack shaped by product work, technical systems, and the need to keep good ideas easy to ship and easy to maintain."
           eyebrow="Skills / Tech Stack"
-          title="A toolkit built for shipping polished, reliable software."
+          title="Tools and technologies I’ve worked with."
+          description="A mix of frontend, backend, systems, and deployment tools I’ve used across different projects."
         />
 
         <div className="grid gap-6 md:grid-cols-2">

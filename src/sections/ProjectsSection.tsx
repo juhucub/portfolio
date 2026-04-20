@@ -9,9 +9,9 @@ export function ProjectsSection() {
     <section className="section-anchor section-shell" id="projects">
       <div className="site-shell space-y-12">
         <SectionHeader
-          description="Selected work spanning product engineering, automation, simulation, and technical tooling. The structure is intentionally data-driven so adding future projects is a content update, not a redesign."
           eyebrow="Featured Projects"
-          title="Projects that balance engineering depth with product polish."
+          title="A few projects I’ve built."
+          description="These are some of the projects I’ve spent the most time on, ranging from full-stack apps to technical tools and simulation work."
         />
 
         <div className="grid gap-6 lg:grid-cols-2">
